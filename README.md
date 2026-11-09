@@ -9,10 +9,10 @@ ABBREVIATED LOTTO SYSTEMS
 
 
 
-svih 4666 izvlacenja
-30.07.1985.- 11.08.2026.
-loto    2955 kombinacija
-loto+   1711 kombinacija
+svih 4716 izvlacenja
+30.07.1985.- 06.11.2026.
+loto    2980 kombinacija
+loto+   1736 kombinacija
 
 
 
